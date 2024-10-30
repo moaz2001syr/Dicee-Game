@@ -15,3 +15,6 @@ A simple two-player dice game where you can refresh the page to see who wins!
 - HTML
 - CSS
 - JavaScript
+
+Link:
+https://moaz2001syr.github.io/Dicee-Game/
